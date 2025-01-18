@@ -1,2 +1,2 @@
 print("Hello, world!")
-print("This is a change.")
+print("Hello, privet!.")
